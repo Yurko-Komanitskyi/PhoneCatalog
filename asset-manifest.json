@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9935930b.css",
+    "main.js": "./static/js/main.1ca00e8b.js",
+    "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
+    "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
+    "static/media/iPhone-16-Side-2-Feature.jpg": "./static/media/iPhone-16-Side-2-Feature.a9d318852b52c4999753.jpg",
+    "static/media/category-accessories.png": "./static/media/category-accessories.e47d6d6df68a6548e82b.png",
+    "static/media/logo.svg": "./static/media/logo.66fee3174b6b8acc65de22d3bece8c6e.svg",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/iPhone-16-Pro-and-iPhone-16.jpg": "./static/media/iPhone-16-Pro-and-iPhone-16.44ee26b43911957d2a7d.jpg",
+    "static/media/maxresdefault.jpg": "./static/media/maxresdefault.f38932ceb101f3453bc4.jpg",
+    "static/media/iPhone-14-Pro-vs-16.jpg": "./static/media/iPhone-14-Pro-vs-16.05eae255bf5eb8832665.jpg",
+    "static/media/somethingWentWrong.webp": "./static/media/somethingWentWrong.75c6371b6b6888320cce.webp",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cart.svg": "./static/media/cart.8e038d7b1002b5f8f3f3.svg",
+    "static/media/favourites.svg": "./static/media/favourites.6b020dfc39103ce64c50.svg",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/home.svg": "./static/media/home.61c669dec91922931a67.svg",
+    "static/media/favoritesSelected.svg": "./static/media/favoritesSelected.35ef0548d1c93a3809b3.svg",
+    "static/media/cross.svg": "./static/media/cross.b1e27dc03ac6ea0cb04b.svg",
+    "static/media/crossWhite.svg": "./static/media/crossWhite.911c2c686f56c2943d2c.svg",
+    "static/media/burger.svg": "./static/media/burger.ccd1a9542b5bc584f2a1.svg",
+    "static/media/arrow.svg": "./static/media/arrow.9daec4b0f2ce289e838b.svg",
+    "static/media/greyArrow.svg": "./static/media/greyArrow.985360c2305523348313.svg",
+    "index.html": "./index.html",
+    "main.9935930b.css.map": "./static/css/main.9935930b.css.map",
+    "main.1ca00e8b.js.map": "./static/js/main.1ca00e8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9935930b.css",
+    "static/js/main.1ca00e8b.js"
+  ]
+}

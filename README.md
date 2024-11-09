@@ -25,8 +25,8 @@ This project is a fully functional Apple product catalog created with React and 
 The project follows a modular structure, with well-defined components and separate Redux slices for managing product data, cart, and favorites. BEM methodology is used for CSS classes, ensuring clear and maintainable styles. TypeScript enhances code quality by enabling type checking, making the project more reliable and easier to debug.
 
 ## Useful links
-- [DEMO LINK]()
-- [DESIGN LINK](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&node-type=canvas&t=p1BOX8lN2YXnpxJN-0)
+- [DEMO LINK](https://yurko-komanitskyi.github.io/PhoneCatalog/)
+- [DESIGN LINK](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark?node-id=0-1&node-type=canvas&t=J2T3WexWTIpctUbW-0)
 
 ## Getting Started
 To set up and run the project locally, follow these steps:

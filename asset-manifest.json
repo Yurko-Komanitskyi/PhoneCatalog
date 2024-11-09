@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9935930b.css",
-    "main.js": "./static/js/main.1ca00e8b.js",
+    "main.js": "./static/js/main.4f473258.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/iPhone-16-Side-2-Feature.jpg": "./static/media/iPhone-16-Side-2-Feature.a9d318852b52c4999753.jpg",
@@ -29,10 +29,10 @@
     "static/media/greyArrow.svg": "./static/media/greyArrow.985360c2305523348313.svg",
     "index.html": "./index.html",
     "main.9935930b.css.map": "./static/css/main.9935930b.css.map",
-    "main.1ca00e8b.js.map": "./static/js/main.1ca00e8b.js.map"
+    "main.4f473258.js.map": "./static/js/main.4f473258.js.map"
   },
   "entrypoints": [
     "static/css/main.9935930b.css",
-    "static/js/main.1ca00e8b.js"
+    "static/js/main.4f473258.js"
   ]
 }
